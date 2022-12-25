@@ -64,7 +64,7 @@
 </p>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
-[![wakatime](https://wakatime.com/badge/gitlab/bahterasn/product/ctera-v2.svg)](https://wakatime.com/badge/gitlab/bahterasn/product/ctera-v2)
+<p> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MirzaChilman)](https://github.com/MirzaChilman/github-readme-stats)</p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=MirzaChilman&show_icons=true&theme=cobalt" alt="MirzaChilman" />
 
 ------------
