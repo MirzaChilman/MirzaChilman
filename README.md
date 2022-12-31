@@ -49,7 +49,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h4>Tooling</h4>
+<h4>DB</h4>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
@@ -62,9 +62,11 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
-<p> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
+<div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
+</div>
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzachilman&" alt="mirzachilman" /></p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=MirzaChilman&show_icons=true&theme=cobalt" alt="MirzaChilman" />
 
 ------------
