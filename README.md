@@ -64,7 +64,6 @@
 </p>
 <div>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaChilman&theme=cobalt&layout=compact" alt="MirzaChilman" />
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MirzaChilman&theme=cobalt" alt="MirzaChilman" />
 </div>
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzachilman&theme=cobalt" alt="mirzachilman" /></p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=MirzaChilman&show_icons=true&theme=cobalt" alt="MirzaChilman" />
