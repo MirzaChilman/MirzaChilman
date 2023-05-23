@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mirza, Fullstack developer that has strong frontend skills from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="14"/> <b>Jakarta, Indonesia</b>
+<p>Welcome to my page! </br> I'm Mirza, Frontend developer that do a little bit of fullstack from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" width="14"/> <b>Jakarta, Indonesia</b>
 <h3>Things I code with</h3>
 <h4>Languages</h4>
 <p>
