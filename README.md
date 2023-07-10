@@ -62,11 +62,11 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
-<div>
+<!-- <div>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaChilman&theme=cobalt&layout=compact" alt="MirzaChilman" />
-</div>
+</div> -->
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzachilman&theme=cobalt" alt="mirzachilman" /></p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=MirzaChilman&show_icons=true&theme=cobalt" alt="MirzaChilman" />
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=MirzaChilman&show_icons=true&theme=cobalt" alt="MirzaChilman" /> -->
 
 ------------
 <p>Credit to: <a href="https://github.com/thmsgbrt/thmsgbrt">thmsgbrt</a></p>
